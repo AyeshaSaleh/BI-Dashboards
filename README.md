@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboards Repository
+# 📊 Power BI Dashboards 
 
 A collection of comprehensive Power BI projects ranging from macroeconomic analysis and social data to retail performance and competitive data challenges.
 
